@@ -1,9 +1,9 @@
 services:
-  mirofish:
+  sparkfish:
+    # Upstream MiroFish image (AGPL-3.0)
+    # Replace with sparkpitlabs/sparkfish once a SparkFish image is published
     image: ghcr.io/666ghj/mirofish:latest
-    # 加速镜像（如拉取缓慢可替换上方地址）
-    # image: ghcr.nju.edu.cn/666ghj/mirofish:latest
-    container_name: mirofish
+    container_name: sparkfish
     env_file:
       - .env
     ports:
