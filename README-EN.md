@@ -5,7 +5,7 @@
 *A Simple and Universal Swarm Intelligence Engine, Predicting Anything*
 
 
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white)](http://discord.gg/ePf5aPaHnA)
+
 
 [English](./README-EN.md) | 
 
